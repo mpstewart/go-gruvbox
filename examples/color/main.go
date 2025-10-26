@@ -9,7 +9,7 @@ import (
 	"os"
 	"reflect"
 
-	"gruvbox"
+	gruvbox "github.com/mpstewart/go-gruvbox"
 )
 
 type swatch struct {

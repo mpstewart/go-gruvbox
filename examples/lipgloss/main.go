@@ -9,7 +9,7 @@ import (
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
 
-	"gruvbox"
+	gruvbox "github.com/mpstewart/go-gruvbox"
 )
 
 type entry struct {

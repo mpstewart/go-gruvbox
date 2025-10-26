@@ -1,4 +1,4 @@
-module gruvbox
+module github.com/mpstewart/go-gruvbox
 
 go 1.24.0
 
